@@ -1,0 +1,22 @@
+{
+    "rows": 2,
+    "cols": 3,
+    "rtsp_urls": [
+      "rtsp://admin:password@192.168.0.111:554/stream2",
+      "rtsp://admin:password@192.168.0.112:554/stream2",
+      "rtsp://admin:password@192.168.0.113:554/stream2",    
+      "rtsp://admin:password@192.168.0.114:554/stream2",
+      "rtsp://admin:password@192.168.0.115:554/stream2",
+      "rtsp://admin:password@192.168.0.116:554/stream2",
+      "rtsp://admin:password@192.168.0.117:554/stream2",
+      "rtsp://admin:password@192.168.0.118:554/stream2",
+      "rtsp://admin:password@192.168.0.119:554/stream2",
+      "rtsp://admin:password@192.168.0.120:554/stream2",
+      "rtsp://admin:password@192.168.0.121:554/stream2",
+      "rtsp://admin:password@192.168.0.122:554/stream2",
+      "rtsp://admin:password@192.168.0.123:554/stream2",
+      "rtsp://admin:password@192.168.0.124:554/stream2",
+      "rtsp://admin:password@192.168.0.125:554/stream2",
+      "rtsp://admin:password@192.168.0.126:554/stream2"
+    ]
+  }

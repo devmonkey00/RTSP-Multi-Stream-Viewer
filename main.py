@@ -8,8 +8,8 @@ import argparse
 from flask import Flask, Response, render_template_string
 
 # Configuration
-tile_width = 420  # 16:9 aspect ratio
-tile_height = 240  # 16:9 aspect ratio (640/360 = 16/9)
+tile_width = 360  # 16:9 aspect ratio
+tile_height = 200  # 16:9 aspect ratio (640/360 = 16/9)
 frame_update_interval = 0.133  # ~30 FPS display update rate
 
 # Load configuration from JSON file
